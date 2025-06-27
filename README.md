@@ -18,9 +18,8 @@ A modern and elegant Flutter application that allows users to explore, download,
    flutter pub get  
 4. Configure Firebase (add `google-services.json` or `GoogleService-Info.plist`)  
 5. Run the app:  
-   flutter run  
-## 📷 Screenshots  
-_Add screenshots here to showcase your app interface._  
+   flutter run
+     
 ## 🔗 GitHub Repository  
 https://github.com/Tahmid-Ul-Goni/Wallpaper_app  
 ## 🙌 Contributions  
